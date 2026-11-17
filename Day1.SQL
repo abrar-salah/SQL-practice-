@@ -5,7 +5,7 @@ CREATE TABLE students (
   major VARCHAR(50)
 );
 
-NSERT INTO students(name,age,major) VALUES 
+INSERT INTO students(name,age,major) VALUES 
 ('Abrar', 24, 'Computer Science'),
 ('Sarah', 22, 'Business'),
 ('Mona', 19, 'Engineering');
